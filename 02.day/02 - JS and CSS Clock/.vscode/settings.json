@@ -1,0 +1,13 @@
+{
+	"prettier.vueIndentScriptAndStyle": true,
+	"eslint.run": "onSave",
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"eslint.lintTask.enable": true,
+	"git.autoStash": true,
+	"singleQuote": false,
+	"prettier.insertPragma": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"editor.formatOnPaste": true
+}
